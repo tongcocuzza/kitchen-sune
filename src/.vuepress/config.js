@@ -34,7 +34,7 @@ module.exports = {
         {
           title: 'Recipes',
           collapsable: false,
-          children: ['', 'roasted-brussels-sprouts', 'nigerian-jollof-rice', 'cereal-with-protein-powder', 'ukrainian-varenyky', 'cranberry-relish', 'pandemic-cookies'],
+          children: ['', 'roasted-brussels-sprouts', 'nigerian-jollof-rice', 'cereal-with-protein-powder', 'ukrainian-varenyky', 'cranberry-relish', 'pandemic-cookies', 'simply-egg-fried-rice'],
         },
       ],
     },
